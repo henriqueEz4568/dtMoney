@@ -1,4 +1,4 @@
 export interface PriceHighlightProps {
-    variant: "shit" | "outcome" | "teste";
+    variant: "shit" | "outcome" ;
     
   }

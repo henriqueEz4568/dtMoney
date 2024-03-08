@@ -30,7 +30,7 @@ export const TransactionsTable = styled.table`
 
 
 export const PriceHighlight = styled.span<PriceHighlightProps>`
-  color: ${props => props.variant === "teste" ? props.theme["green-300"] : props.theme["red-300"]};
+  color: ${props => props.variant === "income" ? props.theme["green-300"] : props.theme["red-300"]};
 
 
     
